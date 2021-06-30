@@ -1,4 +1,5 @@
-- 新建maven工程，目录结构如下
+- 新建maven工程，目录结构如下  
+
 ![MEMO](https://img-blog.csdnimg.cn/20210701003547545.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTAzOTM2Nw==,size_16,color_FFFFFF,t_70#pic_center)
 
 
